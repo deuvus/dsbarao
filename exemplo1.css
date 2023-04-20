@@ -1,14 +1,17 @@
-<!DOCTYPE html>
-<html></html>
-<head>
-<link rel="stylesheet" type="text/css" href="exemplo2.css"><link>
-</head>
-<body>
-<section class="topo"></section>
-,<section class="corpo">
-    <div class=""></div>
-<div class=""></div>
-</section>
-<selection class="rodape"></selection>
-</body>
-</html
+body{
+    background-color: aquamarine;
+}
+.topo{
+    background-color: blue;
+    height: 200px;
+    padding: 30%;
+    color: blueviolet;
+     }
+     .corpo{ 
+        background-color: black;
+        text-align: center;
+        min-height: 400%;
+     }
+     .rodape{
+
+     }fixed
